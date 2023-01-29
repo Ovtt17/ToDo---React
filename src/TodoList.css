@@ -3,3 +3,13 @@ ul {
   padding: 0 0 56px 0;
   list-style: none;
 }
+.TodoList {
+  padding: 10px;
+  margin-top: 20px;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0px 5px 25px rgba(97, 217, 250, 0.626);
+}
+@media (min-width: 630px) {
+  
+}
