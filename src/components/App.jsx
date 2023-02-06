@@ -5,7 +5,6 @@ import { TodoProvider } from './TodoContext';
 
 function App() {
   
-
   return (
     <TodoProvider>
       <AppUI />
