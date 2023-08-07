@@ -48,6 +48,7 @@
 }
 .TodoItem-p--complete {
   text-decoration: line-through;
+  color: #4caf50;
 }
 
 .Icon {
@@ -64,11 +65,12 @@
 
 .Icon-check {
   position: absolute;
-  top: 30px;
-  left: 12px;
+  height: 20px;
+  width: 20px;
+  top: 40%;
 }
 .Icon-check--active {
-  color: #4caf50;
+  background-color: #4caf50;
 }
 
 .Icon-delete {

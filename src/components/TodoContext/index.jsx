@@ -59,6 +59,7 @@ function TodoProvider (props) {
       setSearchValue,
       searchedTodos,
       addTodo,
+      completeTodo,
       deleteTodo,
       openModal,
       setOpenModal
